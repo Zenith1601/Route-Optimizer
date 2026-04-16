@@ -36,7 +36,7 @@ nodes while still finding the optimal path.
 | Speed | Slower | Faster |
 | Optimal Path | ✅ 
 
-## 📊 Output
+##  Output
 - Terminal — travel time, distance, nodes visited comparison
 - route_map.html — Interactive map showing:
   - 🔵 Blue line — Dijkstra route
@@ -44,7 +44,7 @@ nodes while still finding the optimal path.
   - 🔴 Red marker — Start (Railway Station)
   - 🟢 Green marker — End (Deekshabhoomi)
 
-## 💡 Concepts Used
+##  Concepts Used
 - Graph Theory — Nodes (intersections) and Edges (roads)
 - Min-Heap Priority Queue — For efficient node selection
 - Haversine Formula — Great circle distance as A* heuristic
