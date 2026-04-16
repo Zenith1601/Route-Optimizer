@@ -1,22 +1,22 @@
 # Route-Optimizer
 Shortest path finder using Dijkstra and A* on real Nagpur map data.
 
-# Route Optimizer — Nagpur City 🗺️
+# Route Optimizer — Nagpur City 
 
 Shortest path finder using **Dijkstra** and **A\*** algorithms 
 on real Nagpur road network data from OpenStreetMap.
 
-## 📌 Route
+# Route
 - **Start** — Nagpur Railway Station
 - **End** — Deekshabhoomi, Nagpur
 
-## 🛠️ Tech Stack
+# Tech Stack
 - Python
 - OSMnx — Real map data from OpenStreetMap
 - Folium — Interactive map visualization
 - NetworkX — Graph operations
 
-## ⚙️ How it Works
+# How it Works
 
 ### Dijkstra
 Explores all roads from source outward, always picking 
